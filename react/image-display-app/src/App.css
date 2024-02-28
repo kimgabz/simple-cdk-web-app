@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+input {
+  margin-right: 10px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 400px;
+  margin-top: 20px;
+}
